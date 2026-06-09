@@ -1,0 +1,9 @@
+{
+  "name": "aria-code-writer",
+  "version": "1.0.0",
+  "description": "AI writes and saves code to files",
+  "author": "aria-team",
+  "entry": "main.py",
+  "requires": [],
+  "commands": ["write-code", "refactor", "fix-file"]
+}
