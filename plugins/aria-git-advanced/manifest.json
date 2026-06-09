@@ -1,0 +1,9 @@
+{
+  "name": "aria-git-advanced",
+  "version": "1.0.0",
+  "description": "Advanced git operations for ARIA",
+  "author": "aria-team",
+  "entry": "main.py",
+  "requires": ["git"],
+  "commands": ["git-flow", "git-stats", "git-blame-ai"]
+}
