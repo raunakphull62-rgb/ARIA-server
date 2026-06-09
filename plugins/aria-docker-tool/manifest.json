@@ -1,0 +1,9 @@
+{
+  "name": "aria-docker-tool",
+  "version": "1.0.0",
+  "description": "Docker management via natural language",
+  "author": "aria-team",
+  "entry": "main.py",
+  "requires": ["docker"],
+  "commands": ["docker-start", "docker-stop", "docker-logs-ai"]
+}
